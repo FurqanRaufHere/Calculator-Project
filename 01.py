@@ -1,6 +1,5 @@
-print("Hey I am Learninig Git and GIthub")
-a = 10
-b = 5
-sum = a+b
-print(sum)
-print("Good Job")
+def add(x, y):
+    return x + y
+
+def subtract(x, y):
+    return x - y
